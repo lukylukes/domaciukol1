@@ -18,6 +18,6 @@ public class Main {
 
         double averageWeight = soldedWeight/numberOfNegotiateContract;
 
-        System.out.println("Average weight per one contract is 1000 ton.");
+        System.out.println("Average weight per one contract is: " +averageWeight+ " kg.");
     }
 }
